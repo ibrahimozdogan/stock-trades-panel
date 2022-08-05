@@ -1,0 +1,9 @@
+version: '3.7'
+services:
+  application:
+    container_name: stock-trades-panel
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./src:/stock-trades-panel/src
