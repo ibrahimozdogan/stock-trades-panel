@@ -1,4 +1,4 @@
-# react-form-single-page-app
+# stock-trades-panel
 
 Demo link: https://simple-stock-panel.s3.eu-central-1.amazonaws.com/index.html
 
