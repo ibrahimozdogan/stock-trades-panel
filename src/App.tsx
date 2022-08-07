@@ -20,7 +20,7 @@ i18next.init({
 
 function App() {
   useEffect(() => {
-    document.title = 'Reservation Form';
+    document.title = 'Trade Form And Trades Table';
   }, []);
 
   return (
